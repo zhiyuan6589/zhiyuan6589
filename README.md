@@ -1,5 +1,4 @@
-## Hi there 👋
-## 🔭 I’m currently working on ...
+## My github repository.
 <!--
 **zhiyuan6589/zhiyuan6589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
