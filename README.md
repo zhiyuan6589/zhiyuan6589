@@ -1,15 +1,39 @@
-## //
-<!--
-**zhiyuan6589/zhiyuan6589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Zhiyuan 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I'm a software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Tech Stack
+
+- **Languages:** C#, Python, Java, JavaScript, C++
+- **Frameworks:** .NET 10, WPF, Flask, Django, Nuxt, Tailwindcss, Vue, Element Plus
+- **DB**: MySQL, PostgreSQL, InfluxDB, Redis, MongoDB
+- **Tools:** Git, Docker, Nginx, Frps, Inno Setup.
+- **System:** Windows, Linux
+
+
+
+## 💻 Projects
+
+Here are some of my projects:
+
+| Project      | Description                      | Link                                              |
+| ------------ | -------------------------------- | ------------------------------------------------- |
+| **ZConnect** | Device connection debugging tool | [GitHub](https://github.com/zhiyuan6589/ZConnect) |
+
+
+
+## 📫 Contact
+
+- Email: your_email@example.com  
+- GitHub: [zhiyuan6589](https://github.com/zhiyuan6589)  
+- Blog: [zhiyuan](http://www.zhiyuan6589.top/)
+
+
+
+## ⚡ Fun Fact
+
+- I enjoy coding.
+- Always learning new technologies and improving my coding skills.
