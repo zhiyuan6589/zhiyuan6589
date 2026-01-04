@@ -27,7 +27,7 @@ Here are some of my projects:
 
 ## 📫 Contact
 
-- Email: your_email@example.com  
+- Email: zhiyuan6589@example.com  
 - GitHub: [zhiyuan6589](https://github.com/zhiyuan6589)  
 - Blog: [zhiyuan](http://www.zhiyuan6589.top/)
 
