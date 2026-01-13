@@ -29,7 +29,7 @@ Here are some of my projects:
 
 - Email: zhiyuan6589@gmail.com  
 - GitHub: [zhiyuan6589](https://github.com/zhiyuan6589)  
-- Blog: [zhiyuan](http://www.zhiyuan6589.top/)
+- Blog: [zhiyuan](https://www.zhiyuan6589.github.io)
 
 
 
