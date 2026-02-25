@@ -7,10 +7,10 @@ I'm a software developer.
 
 ## 🛠 Tech Stack
 
-- **Languages:** C#, Python, Java, JavaScript, C++
-- **Frameworks:** .NET 10, WPF, Flask, Django, Nuxt, Tailwindcss, Vue, Element Plus
-- **DB**: MySQL, PostgreSQL, InfluxDB, Redis, MongoDB
-- **Tools:** Git, Docker, Nginx, Frps, Inno Setup.
+- **Languages:** C#, Python, JavaScript
+- **Frameworks:** .NET, ASP.NET, WPF, Flask, Nuxt, Vue
+- **DB**: MySQL, PostgreSQL, SQL Server, InfluxDB, Redis
+- **Tools:** Git, Docker, Nginx, Frps
 - **System:** Windows, Linux
 
 
